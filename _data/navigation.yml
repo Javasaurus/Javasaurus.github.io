@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title:
-  url:
+- title:JavaSaurus
+  url:https://www.twitch.tv/javasaurus
+  excerpt:
+  image:
+  - title:HonestDanGames
+  url:https://www.twitch.tv/honestdangames
   excerpt:
   image:
